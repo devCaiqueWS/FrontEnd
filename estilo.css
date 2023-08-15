@@ -121,6 +121,7 @@ footer{
   
   .search-bar input {
     margin-right: 5px;
+    padding: 5px 10px;
   }
   
   .search-bar button {
